@@ -17,3 +17,14 @@ The output of this should be a firm understanding of XYZ's Current state and wha
 After a root cause has been identified we need to determine what is the best steps to move forward. Each team is different and will have different needs for tranformation in regards to Technology, Process, and Product understanding. It is my preference to work with the most mature teams first; getting in some quick wins to allow for faster apotion for less mature teams. 
 
 ### Team Chartering 
+
+Team Introductions: Name, Role, Icebreaker.
+
+Skills Self-Assessment:
+
+Team Vision and Mission
+
+Working Agreement
+
+Roles and Responsibilities
+
