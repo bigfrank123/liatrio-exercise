@@ -24,7 +24,12 @@ Skills Self-Assessment:
 
 Team Vision and Mission
 
-Working Agreement
+Working Agreement - schedule, Andon cord, etc
 
 Roles and Responsibilities
+
+### Dojo 
+
+Kickoff - 
+
 
