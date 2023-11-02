@@ -46,4 +46,3 @@ For Each team:
 ### Dojo Graduation and Checkpoints
 - 30, 60, 90 day checkpoints
 - Observe team habits
-- 
