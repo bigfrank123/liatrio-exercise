@@ -5,10 +5,13 @@ XYZ has requested help with their ongoing DevOps transformation. They have noted
 This is needed to assess current state. Working on the assumption that XYZ has attempted a DevOps transition in the past, there is a need to determine what the Organization's understanding of the concepts of DevOps is; IE, the "Why".
 - [ ] Senior leadership interviews.
     - Why did they choose to adopt DevOps?
+    - Company Culture pulse check
 - [ ] Interview Architects
     - What caused them to fail the first time?
+    - Company Culture pulse check
 - [ ] Interview Team to further narrow down root cause.
     - What time did the team take to learn concepts?
+    - Company Culture pulse check
 
 The output of this should be a firm understanding of XYZ's Current state and what caused their original transformation to fail. 
 
@@ -40,3 +43,7 @@ For Each team:
     - 2.5 days sprints
     - learn something in the AM, apply it in the PM
     - Modified  Scrum
+### Dojo Graduation and Checkpoints
+- 30, 60, 90 day checkpoints
+- Observe team habits
+- 
