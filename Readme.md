@@ -29,7 +29,14 @@ Working Agreement - schedule, Andon cord, etc
 Roles and Responsibilities
 
 ### Dojo 
-
-Kickoff - 
-
-
+For Each team:
+- Kickoff
+   - Presentation
+       - Introductions
+       - What is DevOps?
+       - What is a Dojo?
+       - What's next and Schedule
+- Dojo Engagement
+    - 2.5 days sprints
+    - learn something in the AM, apply it in the PM
+    - Modified  Scrum
