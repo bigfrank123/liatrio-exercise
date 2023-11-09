@@ -17,7 +17,9 @@ This is needed to assess current state. Working on the assumption that XYZ has a
         - "Who owns the Infrastructure for any given app?"
         - "How long does it take to restore service after an outage?"
         - "How does your org sunset Legacy Applications?"
-            - "We dont" :bangbang::bangbang:
+            - "We dont" :bangbang:
+        - "What are your thoughts on cloud computing and the switch from on-prem?"
+            - "It's just someone else's computer" :bangbang:
 - [ ] Interview Team to further narrow down root cause.
     - What time did the team take to learn concepts?
     - Company Culture pulse check
@@ -27,6 +29,8 @@ This is needed to assess current state. Working on the assumption that XYZ has a
          - IF "Every two weeks" "Are your deploymenets tied to sprints?"
      - "What is your branching strategy in Source Coontrol, if any?"
      - "When I say 'Agile', what is the first word that comes to mind?"
+     - "How often do you write unit tests?"
+        - "Unit tests?" :bangbang:
 The output of this should be a firm understanding of XYZ's Current state and what caused their original transformation to fail. 
 
 ## Engagement Planning and Team Chartering (1 Week)
