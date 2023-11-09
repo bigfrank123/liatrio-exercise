@@ -6,13 +6,23 @@ This is needed to assess current state. Working on the assumption that XYZ has a
 - [ ] Senior leadership interviews.
     - Why did they choose to adopt DevOps?
     - Company Culture pulse check
+    - What is DevOps?
+        - IF "CI/CD": :triangular_flag_on_post::triangular_flag_on_post::triangular_flag_on_post:
+            - See above "Why?"
 - [ ] Interview Architects
     - What caused them to fail the first time?
     - Company Culture pulse check
+    - What is DevOps?
+        - See above
+        - "Who owns the Infrastructure for any given app?"
+        - "How long does it take to restore service after an outage?"
+        - 
 - [ ] Interview Team to further narrow down root cause.
     - What time did the team take to learn concepts?
     - Company Culture pulse check
-
+    - What is DevOps?
+        - See above
+     - "What is your deployment frequency?"
 The output of this should be a firm understanding of XYZ's Current state and what caused their original transformation to fail. 
 
 ## Engagement Planning and Team Chartering (1 Week)
