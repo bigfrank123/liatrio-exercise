@@ -31,6 +31,7 @@ This is needed to assess current state. Working on the assumption that XYZ has a
      - "When I say 'Agile', what is the first word that comes to mind?"
      - "How often do you write unit tests?"
         - "Unit tests?" :bangbang:
+ 
 The output of this should be a firm understanding of XYZ's Current state and what caused their original transformation to fail. 
 
 ## Engagement Planning and Team Chartering (1 Week)
