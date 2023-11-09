@@ -9,6 +9,9 @@ This is needed to assess current state. Working on the assumption that XYZ has a
     - What is DevOps?
         - IF "CI/CD": :triangular_flag_on_post::triangular_flag_on_post::triangular_flag_on_post:
             - See above "Why?"
+    - RACI for the enterprise
+    - Enterprise Objectives
+    - Measurements
 - [ ] Interview Architects
     - What caused them to fail the first time?
     - Company Culture pulse check
