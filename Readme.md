@@ -1,5 +1,5 @@
 # DevOps engagement with XYZ
-XYZ has requested help with their ongoing DevOps transformation. They have noted issues with their environement creation and deploment processes. 
+XYZ has requested help with their ongoing DevOps transformation. They have noted issues with their environement creation and deployment processes. 
 
 ## Knowledge gathering (1-2 weeks)
 This is needed to assess current state. Working on the assumption that XYZ has attempted a DevOps transition in the past, there is a need to determine what the Organization's understanding of the concepts of DevOps is; IE, the "Why".
