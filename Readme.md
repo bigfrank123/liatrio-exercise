@@ -46,13 +46,15 @@ After a root cause has been identified we need to determine what is the best ste
 
     Team Introductions: Name, Role, Icebreaker.
     
-    Skills Self-Assessment:
+    Skills Self-Assessment
     
     Team Vision and Mission
     
     Working Agreement - schedule, Andon cord, etc
     
     Roles and Responsibilities
+
+    Determine POC
 
 ### Dojo (6-7 weeks)
 Before we schedule teams we need to determine the team that is best set up for success in the Dojo; **A rising tide lifts all boats.**
